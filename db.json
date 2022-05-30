@@ -1,11 +1,11 @@
  {
   "networks": {
-    "admob_activated": false,
+    "admob_activated": true,
     "fan_activated": true
   },
   "ad_units": [
     {
-      "limit_activated": false,
+      "limit_activated": true,
       "unit_id": "1564516670394005_1564551527057186",
       "ads_activated": true,
       "clicks": 1,
@@ -15,7 +15,7 @@
       "hide_on_click": true
     },
     {
-      "limit_activated": false,
+      "limit_activated": true,
       "unit_id": "1564516670394005_1564522647060074",
       "ads_activated": true,
       "clicks": 2,
@@ -26,7 +26,7 @@
     },
     {
       "limit_activated": true,
-      "unit_id": "ca-app-pub-8281466180702761/6039096525",
+      "unit_id": "ca-app-pub-3940256099942544/6300978111",
       "ads_activated": true,
       "clicks": 2,
       "impressions": 20,
@@ -36,7 +36,7 @@
     },
     {
       "limit_activated": true,
-      "unit_id": "ca-app-pub-8281466180702761/9786769849",
+      "unit_id": "ca-app-pub-3940256099942544/1033173712",
       "ads_activated": true,
       "clicks": 2,
       "impressions": 20,
@@ -46,7 +46,7 @@
     },
     {
       "limit_activated": true,
-      "unit_id": "ca-app-pub-8281466180702761/9990977496",
+      "unit_id": "ca-app-pub-3940256099942544/5224354917",
       "ads_activated": true,
       "clicks": 2,
       "impressions": 20,
