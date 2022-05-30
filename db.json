@@ -1,7 +1,7 @@
  {
   "networks": {
     "admob_activated": true,
-    "fan_activated": true
+    "fan_activated": false
   },
   "ad_units": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "limit_activated": true,
-      "unit_id": "ca-app-pub-3940256099942544/630097811111",
+      "unit_id": "ca-app-pub-3940256099942544/6300978111",
       "ads_activated": true,
       "clicks": 2,
       "impressions": 20,
